@@ -4,6 +4,5 @@
 | Ahmed Hisham  | 1023  |
 | Nada Maher  | 1139  |
 | Norhan Mohamed  | 764  |
-| Salma Mohamed | 199  |
 
 video link is [here](https://youtu.be/WwDwOOemtg8?si=VkJGsz_3BjQq5BVa)
